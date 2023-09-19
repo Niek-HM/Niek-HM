@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Niek-HM
-- 👀 I mostly work in python and javascript but i also like to experiment with other languages.
-- 🌱 I’m currently still a kid and am trying to learn a bit about every field so i can specialize by the time i go to collage.
-- 💞️ I still work alone most of the time but i would love to colaberate on a project with someone.
-- 📫 How to reach me: You can always send me an email to my school mail: 524712@edu.laarenberg.nl
+👋 Hello, I'm Niek!
 
-<!---
-Niek-HM/Niek-HM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 As a developer with a diverse skill set and a passion for problem-solving, I specialize in web development, API integration, scraping, and automation. My primary programming language is Python, but I'm also well-versed in Java, JavaScript, JSON, C#, HTML, PHP, and CSS, allowing me to work with a wide range of projects.
+
+💼 My expertise shows through my extensive experience with Python libraries such as Django, Flask, BeautifulSoup, requests, Selenium, and more. This experience enables me to create robust and efficient web applications and automation solutions. I'm not just limited to these tools, I love exploring and mastering new APIs and technologies.
+
+📊 Data is at the core of many modern applications, and I excel at scraping, processing, and organizing data efficiently. I'm adept at working with various data formats like CSV, XLSX, and DOC, ensuring that data-driven projects are handled with precision.
+
+🧩 I'm not just a developer, I am a problem solver. I approach each project with the mindset of finding creative and effective solutions, making me a valuable asset to any team.
+
+🌐 On top of my technical skills, I'm fluent in English, a native Dutch speaker, and possess basic German language skills. This linguistic versatility enables me to communicate effectively with clients and collaborators worldwide.
+
+🚀 If you're looking for a developer who can turn your ideas into reality, streamline your data processes, or integrate APIs seamlessly, feel free to reach out. Let's collaborate and bring your projects to life!
+
+📫 You can contact me via niekmeijlink@gmail.com or contact me on UpWork https://www.upwork.com/freelancers/~0133d38a9f0b294661.
