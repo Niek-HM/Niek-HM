@@ -8,7 +8,7 @@
 
 🧩 I'm not just a developer, I am a problem solver. I approach each project with the mindset of finding creative and effective solutions, making me a valuable asset to any team.
 
-🌐 On top of my technical skills, I'm fluent in English, a native Dutch speaker, and possess basic German language skills. This linguistic versatility enables me to communicate effectively with clients and collaborators worldwide.
+🌐 On top of my technical skills, I'm fluent in English, a native Dutch speaker, and possess basic German language skills. This versatility enables me to communicate effectively with clients and collaborators worldwide.
 
 🚀 If you're looking for a developer who can turn your ideas into reality, streamline your data processes, or integrate APIs seamlessly, feel free to reach out. Let's collaborate and bring your projects to life!
 
